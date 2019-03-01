@@ -1,0 +1,39 @@
+{
+  "name": "exodusp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "ag-grid-community": "^20.0.0",
+    "ag-grid-react": "^20.0.0",
+    "antd": "^3.12.4",
+    "node-sass": "^4.11.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-redux": "^6.0.0",
+    "react-router-dom": "^4.3.1",
+    "react-splitter-layout": "^3.0.1",
+    "redux": "^4.0.1",
+    "styled-components": "^4.1.3",
+    "typescript": "^3.2.4"
+  },
+  "devDependencies": {
+    "redux-logger": "^3.0.6",
+    "@types/react": "^16.7.0",
+    "@types/react-dom": "^16.0.11",
+    "@types/react-redux": "^7.0.0",
+    "@types/react-router": "^4.4.3",
+    "@types/react-router-dom": "^4.3.1",
+    "@types/redux": "^3.6.0",
+    "css-loader": "^2.1.0",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
+    "ts-loader": "^5.3.3"
+  },
+  "scripts": {
+    "start": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

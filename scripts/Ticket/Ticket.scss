@@ -1,0 +1,14 @@
+#ticket {
+    padding : 0 15px;
+    .ant-input-number,
+    .ant-btn {
+        width : 100%;
+        max-width : 100px;
+    }
+    label {
+        font-weight:bold;
+    }
+    .ticketRow {
+        display : flex;
+    }
+}

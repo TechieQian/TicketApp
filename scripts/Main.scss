@@ -1,0 +1,22 @@
+#ticket_app {
+  width: 800px;
+  margin: 100px;
+  border: 1px solid black;
+  position: absolute;
+  height: 100%;
+  .header {
+    padding: 0 15px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    height: 30px;
+  }
+  .layout-splitter {
+    background-color: gray;
+    margin-bottom: 5px;
+  }
+  .ag-theme-balham .ag-header-cell-label .ag-header-cell-text {
+    white-space: normal;
+    line-height: 1.5;
+  }
+}

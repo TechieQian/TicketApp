@@ -1,0 +1,11 @@
+#order_blotter {
+  .header {
+    display: flex;
+    justify-content: space-between;
+  }
+  height: 100%;
+  #order_grid {
+    margin: 15px;
+    height: 100%;
+  }
+}
