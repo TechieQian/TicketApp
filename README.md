@@ -14,3 +14,8 @@ Future items to be added:
 4) Babel typescript loader.
 5) Linting.
 6) Hooks (I like it, but not production ready!) 
+
+Steps to run project:
+1) npm install
+2) webpack
+3) click on index.html :) 
